@@ -15,6 +15,11 @@ header h1{
     font-size: 2.5rem;
     margin-bottom: 10px;
     text-shadow: 4px 4px 6px #000;
+    font-family: "Merienda";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
 }
 
 header p{
@@ -58,4 +63,5 @@ footer{
     background: #000000d1;
     color: #fff;
     padding: 10px;
+    
 }
