@@ -1,6 +1,10 @@
 body{
     text-align: center;
     margin: auto;
+    font-family: "Merienda";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
 }
 
 header{
